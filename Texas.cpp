@@ -223,5 +223,4 @@ int main() {
             cout << PokerHand::print(hands) << endl;
         }
     }
-
 }
