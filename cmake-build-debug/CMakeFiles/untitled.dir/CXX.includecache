@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/615/CLionProjects/untitled/Texas.cpp
+iostream
+-
+map
+-
+vector
+-
+fstream
+-
+sstream
+-
+algorithm
+-
+
